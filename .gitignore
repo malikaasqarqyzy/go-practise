@@ -1,0 +1,13 @@
+#Ignoring binary files of Go
+bin/
+*.exe
+*.so
+*.dll
+
+#Ignoring IDE files
+.vscode/
+.idea/
+
+#Ignoring logs and temporary files
+*.log
+*.tmp 
